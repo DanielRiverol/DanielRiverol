@@ -1,5 +1,6 @@
+![Header](./github-header-image.png)
 # 💫 Sobre mi:
-Hola! Soy Dani, un apasionado del desarrollo web, la música y la enseñanza.<br>
+Soy un apasionado del desarrollo web, la enseñanza y la música .<br>
 <br>
 **Desarrollador Frontend:**
 <br> 
